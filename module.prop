@@ -4,3 +4,4 @@ version=v7.0
 versionCode=5
 author=shivangswain
 description=Systemlessly replaces emoji font with JoyPixels 7.0
+updateJson=https://raw.githubusercontent.com/shivangswain/JoyPixels/master/update.json
